@@ -14,7 +14,7 @@ const projects: ProjectCardDataProps[] = [
     url: "https://github.com/ichsandwihimawan/Portfolio-ID",
   },
   {
-    title: "Using Technology Python(Django)",
+    title: "Richfarm",
     description: "Using Technology Python(html+css+boostrap)",
     type: "github",
     url:
@@ -22,7 +22,7 @@ const projects: ProjectCardDataProps[] = [
   },
 
    {
-    title: "Portfolio",
+    title: "Golden Wisata",
     description: "React JS + NODE JS (GOLDEN WISATA)",
     type: "github",
     url: "https://github.com/ichsandwihimawan/goldengolden",
