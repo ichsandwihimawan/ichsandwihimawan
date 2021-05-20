@@ -6,7 +6,7 @@ import { HighlightedTextIcon } from 'components/molecules';
 
 const Text = () => (
   <>
-    Saya sudah berpengalaman selama dua tahun mendalami{' '}
+    Saya sudah berpengalaman selama satu tahun mendalami{' '}
     <span className="font-bold text-gray-800">pengembangan website</span> menggunakan{' '}
     <HighlightedTextIcon
       as="a"
