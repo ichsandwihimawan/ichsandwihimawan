@@ -11,7 +11,7 @@ const projects: ProjectCardDataProps[] = [
     title: "Portfolio",
     description: "TailwindCSS,React+TypeScript.",
     type: "github",
-    url: "https://github.com/ichsandwihimawan/Portfolio-ID",
+    url: "https://github.com/ichsandwihimawan/Portfolio-IDH",
   },
   {
     title: "Richfarm",
