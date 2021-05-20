@@ -2,7 +2,7 @@ import { ProjectCardDataProps } from "components/molecules/ProjectCard/types";
 
 const projects: ProjectCardDataProps[] = [
   {
-    title: "Projek Marketplace",
+    title: "Projek Adversting",
     description: "Website Adversting alatberat Using Technology Laravel + Boostrap",
     type: "github",
     url: "https://github.com/projekkalatberat/alatberat",
