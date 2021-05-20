@@ -14,11 +14,11 @@ const projects: ProjectCardDataProps[] = [
     url: "https://github.com/ichsandwihimawan/Portfolio-ID",
   },
   {
-    title: "Overflow",
-    description: "https://github.com/ichsandwihimawan/Richfarmfix",
+    title: "Using Technology Python(Django)",
+    description: "Using Technology Python(html+css+boostrap)",
     type: "github",
     url:
-      "https://dribbble.com/shots/11877395-Overflow-TailwindCSS-Admin-Dashboard-Template",
+      "https://github.com/ichsandwihimawan/Richfarmapp",
   },
 
    {
