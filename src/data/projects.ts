@@ -27,6 +27,12 @@ const projects: ProjectCardDataProps[] = [
     type: "github",
     url: "https://github.com/ichsandwihimawan/goldengolden",
   },
+   {
+    title: "Richfarm Landing Page",
+    description: "Using Technology React JS(Getsby)",
+    type: "github",
+    url: "https://github.com/ichsandwihimawan/Richfarmfix",
+  },
 ];
 
 export default projects;
